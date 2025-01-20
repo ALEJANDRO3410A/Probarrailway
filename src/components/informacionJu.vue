@@ -47,7 +47,7 @@
       return {
         player: {
           name: "Lionel Messi",
-          photo: "@/assets/messi.jpg",
+          photo: "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
           description: `Lionel Andrés Messi Cuccittini, conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista. Desde 2023, integra el plantel del Inter Miami de la MLS canadiense-estadounidense. Es considerado con frecuencia el mejor jugador del mundo y uno de los mejores de todos los tiempos.`,
           stats: [
             { year: 2010, goals: 0, assists: 0, totalShots: 0, shotsOnTarget: 0, successfulDribbles: 0, duelsWon: 0 },

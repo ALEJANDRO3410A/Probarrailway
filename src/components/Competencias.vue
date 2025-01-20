@@ -5,7 +5,7 @@
     <div class="info-container">
       <div class="imagen-container">
         <img
-          src="https://depor.com/resizer/_e-IEA38Yq_0oT-R1yN9E95FJyI=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2UWG765YB5GA3CWAAL3YCOUTQM.jpg"
+          src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
           alt="Liga Deportiva"
         />
         <h3>Acuerdo Ministerial</h3>
