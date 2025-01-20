@@ -3,7 +3,7 @@
     <!-- Barra de navegación -->
     <nav class="navbar">
       <div class="logo-container">
-        <img src="../assets/images/logo.png" alt="Logo" class="logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" alt="Logo" class="logo" />
         <span class="app-name">SOCIAL SOCCER</span>
       </div>
       <!-- Items del menú centrados -->
