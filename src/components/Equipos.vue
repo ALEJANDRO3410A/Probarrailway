@@ -2,7 +2,7 @@
   <div class="fc-barcelona-page">
     <!-- Encabezado -->
     <header class="header">
-      <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" alt="FC Barcelona" class="logo" />
+      <img src="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg"/>
       <h1>FC Barcelona</h1>
       <button class="btn-ver-jugadores">Ver jugadores</button>
     </header>
